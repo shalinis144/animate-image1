@@ -1,0 +1,26 @@
+{
+  "name": "animate-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shalinis144/animate-image.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalinis144/animate-image/issues"
+  },
+  "homepage": "https://github.com/shalinis144/animate-image#readme",
+  "dependencies": {
+    "aos": "^2.3.4"
+  },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  }
+}
